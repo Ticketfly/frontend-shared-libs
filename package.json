@@ -1,7 +1,7 @@
 {
   "name": "frontend-shared-libs",
-  "version": "0.0.0",
-  "description": "The default blueprint for ember-cli addons.",
+  "version": "0.0.1",
+  "description": "Shared utils/libraries",
   "directories": {
     "doc": "doc",
     "test": "tests"
