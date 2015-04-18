@@ -3,3 +3,8 @@
 ```sh
 ember g frontend-shared-libs
 ```
+
+Utils:
+
++ `guid`
++ `titleize`
