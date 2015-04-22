@@ -8,3 +8,4 @@ Utils:
 
 + `guid`
 + `titleize`
++ `node-uuid`

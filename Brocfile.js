@@ -18,4 +18,7 @@ var app = new EmberAddon();
 // please specify an object with the list of modules as keys
 // along with the exports of each module as its value.
 
+// node-uuid
+app.import('bower_components/node-uuid/uuid.js');
+
 module.exports = app.toTree();
