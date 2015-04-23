@@ -3,7 +3,7 @@
 module.exports = {
   name: 'frontend-shared-libs',
     
-  afterInstall: function() {
-    this.addBowerPackageToProject('node-uuid', '~1.4.3');
+  beforeInstall: function() {
+    return this.addBowerPackageToProject('node-uuid', '~1.4.3');
   }
 };
